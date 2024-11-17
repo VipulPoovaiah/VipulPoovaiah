@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
-- My youtube channel (currently doesnt have any videos): <a href="https://www.youtube.com/@vipulpoovaiah" class="button">Youtube</a><input class="button" type="submit" value="Post comment (input)"><button class="button" type="submit">Post comment (button)</button>
-
+- My youtube channel (currently doesnt have any videos): <a href="https://www.youtube.com/@vipulpoovaiah" class="button">Youtube</a>
 
 <!---
 VipulPoovaiah/VipulPoovaiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
