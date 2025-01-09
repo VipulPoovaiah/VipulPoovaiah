@@ -6,7 +6,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 - My youtube channel (currently doesnt have any videos): <a href="https://www.youtube.com/@vipulpoovaiah" class="button">
-  <img src="https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png" width="15" height="10" alt="YouTube Logo">
+  <img src="https://www.gstatic.com/youtube/img/watch/yt_favicon_ringo2.png" alt="YouTube Logo">
 </a>
 <!---
 VipulPoovaiah/VipulPoovaiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
